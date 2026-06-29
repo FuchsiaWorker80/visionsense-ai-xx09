@@ -1,4 +1,4 @@
-# 
+# Updated VisionSense package. Download and install with local-deployment and gui-available — fast, secure, and easy to use.
 
 
 
